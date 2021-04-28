@@ -8,3 +8,7 @@
 
 ## Objetive
 The objetive of this project is made a copy of twitter that contains the users and the tweets in a local database the app also contains [Lottie animations](https://github.com/airbnb/lottie-android) and [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+
+
+## App in action 
+[YouTube video](https://youtu.be/YzUrg09UETE)
